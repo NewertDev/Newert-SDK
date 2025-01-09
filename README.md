@@ -1,11 +1,11 @@
-# VitalTrack SDK
+# VitalTrack & EmoConnect SDK
 
 ## 소개
-**VitalTrack SDK**는 BLE 장치를 활용하여 **PPG 및 IMU 데이터를 수집하고 처리**할 수 있는 Flutter 기반 라이브러리입니다. 
+**VitalTrack & EmoConnect SDK**는 BLE 장치를 활용하여 **PPG 및 IMU 데이터를 수집하고 처리**할 수 있는 Flutter 기반 라이브러리입니다. 
 이 SDK를 통해 실시간으로 **생체신호를 기록**하고, 장치 간 BLE 통신을 간편하게 구현할 수 있습니다.
 
 ### 1. 사용법
-VitalTrack SDK는 **BLE 장치와 연결, 데이터 수집, 명령 전송 기능**을 포함합니다. 아래에 주요 기능 사용 예시를 제공합니다.
+VitalTrack & EmoConnect SDK는 **BLE 장치와 연결, 데이터 수집, 명령 전송 기능**을 포함합니다. 아래에 주요 기능 사용 예시를 제공합니다.
 
 ### 1.1 BLE 장치 스캔 및 연결
 BLE 장치 스캔을 시작하고 원하는 장치에 연결할 수 있습니다.
